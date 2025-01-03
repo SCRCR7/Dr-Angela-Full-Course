@@ -43,5 +43,7 @@ int main(){
    cout<<a<<endl;
    cout<<&a<<endl;
    cout<<"s-changes"<<endl;
+   cout<<&a<<endl;
+   cout<<"s-changes"<<endl;
     return 0;
 }
