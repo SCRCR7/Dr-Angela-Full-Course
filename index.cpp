@@ -39,5 +39,8 @@ int main(){
           cout<<"Your Are Not Eligible for this Program Try it Next Time Best of Luck "<<endl; 
    }
 
+   int a =20;
+   cout<<a<<endl;
+
     return 0;
 }
