@@ -41,6 +41,9 @@ int main(){
 
    int a =20;
    cout<<a<<endl;
+   cout<<"new changes on s-changes"<<endl;
+      cout<<"new changes on s-changes"<<endl;
+
 
     return 0;
 }
